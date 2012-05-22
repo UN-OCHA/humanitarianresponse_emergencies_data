@@ -1,0 +1,8 @@
+name = HumanitarianResponse Emergencies Data
+description = Terms for the disaster types taxonomy
+core = 7.x
+package = Humanitarianresponse data
+dependencies[] = humanitarianresponse_emergencies
+dependencies[] = uuid
+features[features_api][] = api:1
+features[uuid_entities][] = disaster_types
