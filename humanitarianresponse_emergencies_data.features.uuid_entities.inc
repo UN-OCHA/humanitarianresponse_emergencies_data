@@ -18,6 +18,8 @@ function humanitarianresponse_emergencies_data_uuid_default_entities() {
     ),
     'description' => '',
     'format' => 'plain_text',
+    'i18n_tsid' => '0',
+    'language' => 'und',
     'name' => 'Avalanche',
     'path' => array(
       'alias' => 'disaster-types/avalanche',
@@ -63,6 +65,8 @@ function humanitarianresponse_emergencies_data_uuid_default_entities() {
     ),
     'description' => '',
     'format' => 'plain_text',
+    'i18n_tsid' => '0',
+    'language' => 'und',
     'name' => 'Complex',
     'path' => array(
       'alias' => 'disaster-types/complex',
@@ -108,6 +112,8 @@ function humanitarianresponse_emergencies_data_uuid_default_entities() {
     ),
     'description' => '',
     'format' => 'plain_text',
+    'i18n_tsid' => '0',
+    'language' => 'und',
     'name' => 'Drought',
     'path' => array(
       'alias' => 'disaster-types/drought',
@@ -153,6 +159,8 @@ function humanitarianresponse_emergencies_data_uuid_default_entities() {
     ),
     'description' => '',
     'format' => 'plain_text',
+    'i18n_tsid' => '0',
+    'language' => 'und',
     'name' => 'Earthquake',
     'path' => array(
       'alias' => 'disaster-types/earthquake',
@@ -198,6 +206,8 @@ function humanitarianresponse_emergencies_data_uuid_default_entities() {
     ),
     'description' => '',
     'format' => 'plain_text',
+    'i18n_tsid' => '0',
+    'language' => 'und',
     'name' => 'Famine',
     'path' => array(
       'alias' => 'disaster-types/famine',
@@ -243,6 +253,8 @@ function humanitarianresponse_emergencies_data_uuid_default_entities() {
     ),
     'description' => '',
     'format' => 'plain_text',
+    'i18n_tsid' => '0',
+    'language' => 'und',
     'name' => 'Floods',
     'path' => array(
       'alias' => 'disaster-types/floods',
@@ -288,6 +300,8 @@ function humanitarianresponse_emergencies_data_uuid_default_entities() {
     ),
     'description' => '',
     'format' => 'plain_text',
+    'i18n_tsid' => '0',
+    'language' => 'und',
     'name' => 'Landslide',
     'path' => array(
       'alias' => 'disaster-types/landslide',
@@ -333,6 +347,8 @@ function humanitarianresponse_emergencies_data_uuid_default_entities() {
     ),
     'description' => '',
     'format' => 'plain_text',
+    'i18n_tsid' => '0',
+    'language' => 'und',
     'name' => 'Storm',
     'path' => array(
       'alias' => 'disaster-types/storm',
@@ -378,6 +394,8 @@ function humanitarianresponse_emergencies_data_uuid_default_entities() {
     ),
     'description' => '',
     'format' => 'plain_text',
+    'i18n_tsid' => '0',
+    'language' => 'und',
     'name' => 'Tsunami',
     'path' => array(
       'alias' => 'disaster-types/tsunami',
