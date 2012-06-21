@@ -36,6 +36,18 @@ function humanitarianresponse_emergencies_data_uuid_default_entities() {
           'value' => 'Avalanche',
         ),
       ),
+      'en' => array(
+        0 => array(
+          'format' => NULL,
+          'value' => 'Avalanche',
+        ),
+      ),
+      'fr' => array(
+        0 => array(
+          'format' => NULL,
+          'value' => 'Avalanche',
+        ),
+      ),
     ),
     'path' => array(
       'alias' => 'disaster-types/avalanche',
@@ -97,6 +109,18 @@ function humanitarianresponse_emergencies_data_uuid_default_entities() {
         0 => array(
           'format' => NULL,
           'value' => 'Complex',
+        ),
+      ),
+      'en' => array(
+        0 => array(
+          'format' => NULL,
+          'value' => 'Complex',
+        ),
+      ),
+      'fr' => array(
+        0 => array(
+          'format' => NULL,
+          'value' => 'Complexe',
         ),
       ),
     ),
@@ -162,6 +186,18 @@ function humanitarianresponse_emergencies_data_uuid_default_entities() {
           'value' => 'Drought',
         ),
       ),
+      'en' => array(
+        0 => array(
+          'format' => NULL,
+          'value' => 'Drought',
+        ),
+      ),
+      'fr' => array(
+        0 => array(
+          'format' => NULL,
+          'value' => 'Sécheresse',
+        ),
+      ),
     ),
     'path' => array(
       'alias' => 'disaster-types/drought',
@@ -225,6 +261,18 @@ function humanitarianresponse_emergencies_data_uuid_default_entities() {
           'value' => 'Earthquake',
         ),
       ),
+      'en' => array(
+        0 => array(
+          'format' => NULL,
+          'value' => 'Earthquake',
+        ),
+      ),
+      'fr' => array(
+        0 => array(
+          'format' => NULL,
+          'value' => 'Tremblement de Terre',
+        ),
+      ),
     ),
     'path' => array(
       'alias' => 'disaster-types/earthquake',
@@ -283,6 +331,18 @@ function humanitarianresponse_emergencies_data_uuid_default_entities() {
     'name' => 'Famine',
     'name_field' => array(
       'und' => array(
+        0 => array(
+          'format' => NULL,
+          'value' => 'Famine',
+        ),
+      ),
+      'en' => array(
+        0 => array(
+          'format' => NULL,
+          'value' => 'Famine',
+        ),
+      ),
+      'fr' => array(
         0 => array(
           'format' => NULL,
           'value' => 'Famine',
@@ -351,6 +411,18 @@ function humanitarianresponse_emergencies_data_uuid_default_entities() {
           'value' => 'Floods',
         ),
       ),
+      'en' => array(
+        0 => array(
+          'format' => NULL,
+          'value' => 'Floods',
+        ),
+      ),
+      'fr' => array(
+        0 => array(
+          'format' => NULL,
+          'value' => 'Inondation',
+        ),
+      ),
     ),
     'path' => array(
       'alias' => 'disaster-types/floods',
@@ -412,6 +484,18 @@ function humanitarianresponse_emergencies_data_uuid_default_entities() {
         0 => array(
           'format' => NULL,
           'value' => 'Landslide',
+        ),
+      ),
+      'en' => array(
+        0 => array(
+          'format' => NULL,
+          'value' => 'Landslide',
+        ),
+      ),
+      'fr' => array(
+        0 => array(
+          'format' => NULL,
+          'value' => 'Glissement de Terrain',
         ),
       ),
     ),
@@ -477,6 +561,18 @@ function humanitarianresponse_emergencies_data_uuid_default_entities() {
           'value' => 'Storm',
         ),
       ),
+      'en' => array(
+        0 => array(
+          'format' => NULL,
+          'value' => 'Storm',
+        ),
+      ),
+      'fr' => array(
+        0 => array(
+          'format' => NULL,
+          'value' => 'Tempête',
+        ),
+      ),
     ),
     'path' => array(
       'alias' => 'disaster-types/storm',
@@ -535,6 +631,18 @@ function humanitarianresponse_emergencies_data_uuid_default_entities() {
     'name' => 'Tsunami',
     'name_field' => array(
       'und' => array(
+        0 => array(
+          'format' => NULL,
+          'value' => 'Tsunami',
+        ),
+      ),
+      'en' => array(
+        0 => array(
+          'format' => NULL,
+          'value' => 'Tsunami',
+        ),
+      ),
+      'fr' => array(
         0 => array(
           'format' => NULL,
           'value' => 'Tsunami',
