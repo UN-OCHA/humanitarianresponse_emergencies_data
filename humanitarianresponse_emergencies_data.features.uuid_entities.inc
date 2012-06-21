@@ -27,7 +27,6 @@ function humanitarianresponse_emergencies_data_uuid_default_entities() {
       ),
     ),
     'format' => 'plain_text',
-    'i18n_tsid' => '0',
     'language' => 'und',
     'name' => 'Avalanche',
     'name_field' => array(
@@ -91,7 +90,6 @@ function humanitarianresponse_emergencies_data_uuid_default_entities() {
       ),
     ),
     'format' => 'plain_text',
-    'i18n_tsid' => '0',
     'language' => 'und',
     'name' => 'Complex',
     'name_field' => array(
@@ -155,7 +153,6 @@ function humanitarianresponse_emergencies_data_uuid_default_entities() {
       ),
     ),
     'format' => 'plain_text',
-    'i18n_tsid' => '0',
     'language' => 'und',
     'name' => 'Drought',
     'name_field' => array(
@@ -219,7 +216,6 @@ function humanitarianresponse_emergencies_data_uuid_default_entities() {
       ),
     ),
     'format' => 'plain_text',
-    'i18n_tsid' => '0',
     'language' => 'und',
     'name' => 'Earthquake',
     'name_field' => array(
@@ -283,7 +279,6 @@ function humanitarianresponse_emergencies_data_uuid_default_entities() {
       ),
     ),
     'format' => 'plain_text',
-    'i18n_tsid' => '0',
     'language' => 'und',
     'name' => 'Famine',
     'name_field' => array(
@@ -347,7 +342,6 @@ function humanitarianresponse_emergencies_data_uuid_default_entities() {
       ),
     ),
     'format' => 'plain_text',
-    'i18n_tsid' => '0',
     'language' => 'und',
     'name' => 'Floods',
     'name_field' => array(
@@ -411,7 +405,6 @@ function humanitarianresponse_emergencies_data_uuid_default_entities() {
       ),
     ),
     'format' => 'plain_text',
-    'i18n_tsid' => '0',
     'language' => 'und',
     'name' => 'Landslide',
     'name_field' => array(
@@ -475,7 +468,6 @@ function humanitarianresponse_emergencies_data_uuid_default_entities() {
       ),
     ),
     'format' => 'plain_text',
-    'i18n_tsid' => '0',
     'language' => 'und',
     'name' => 'Storm',
     'name_field' => array(
@@ -539,7 +531,6 @@ function humanitarianresponse_emergencies_data_uuid_default_entities() {
       ),
     ),
     'format' => 'plain_text',
-    'i18n_tsid' => '0',
     'language' => 'und',
     'name' => 'Tsunami',
     'name_field' => array(
