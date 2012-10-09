@@ -48,6 +48,12 @@ function humanitarianresponse_emergencies_data_uuid_default_entities() {
           'value' => 'Avalanche',
         ),
       ),
+      'es' => array(
+        0 => array(
+          'format' => NULL,
+          'value' => 'Avalancha',
+        ),
+      ),
     ),
     'path' => array(
       'alias' => 'disaster-types/avalanche',
@@ -96,6 +102,12 @@ function humanitarianresponse_emergencies_data_uuid_default_entities() {
           'status' => '1',
           'translate' => '0',
         ),
+        'es' => array(
+          'language' => 'es',
+          'source' => 'en',
+          'status' => '1',
+          'translate' => '0',
+        ),
       ),
     ),
     'uuid' => 'aa5429fd-4ae7-0b44-492a-a628ec82609d',
@@ -138,6 +150,12 @@ function humanitarianresponse_emergencies_data_uuid_default_entities() {
         0 => array(
           'format' => NULL,
           'value' => 'Complexe',
+        ),
+      ),
+      'es' => array(
+        0 => array(
+          'format' => NULL,
+          'value' => 'Complejo',
         ),
       ),
     ),
@@ -188,6 +206,12 @@ function humanitarianresponse_emergencies_data_uuid_default_entities() {
           'status' => '1',
           'translate' => '0',
         ),
+        'es' => array(
+          'language' => 'es',
+          'source' => 'en',
+          'status' => '1',
+          'translate' => '0',
+        ),
       ),
     ),
     'uuid' => '12255422-b7db-de34-9920-37faece6e0f3',
@@ -230,6 +254,12 @@ function humanitarianresponse_emergencies_data_uuid_default_entities() {
         0 => array(
           'format' => NULL,
           'value' => 'Sécheresse',
+        ),
+      ),
+      'es' => array(
+        0 => array(
+          'format' => NULL,
+          'value' => 'Sequía',
         ),
       ),
     ),
@@ -280,6 +310,12 @@ function humanitarianresponse_emergencies_data_uuid_default_entities() {
           'status' => '1',
           'translate' => '0',
         ),
+        'es' => array(
+          'language' => 'es',
+          'source' => 'en',
+          'status' => '1',
+          'translate' => '0',
+        ),
       ),
     ),
     'uuid' => '3255ae19-9018-a1b4-f98a-309f3eedab65',
@@ -322,6 +358,12 @@ function humanitarianresponse_emergencies_data_uuid_default_entities() {
         0 => array(
           'format' => NULL,
           'value' => 'Tremblement de Terre',
+        ),
+      ),
+      'es' => array(
+        0 => array(
+          'format' => NULL,
+          'value' => 'Terremoto',
         ),
       ),
     ),
@@ -372,6 +414,12 @@ function humanitarianresponse_emergencies_data_uuid_default_entities() {
           'status' => '1',
           'translate' => '0',
         ),
+        'es' => array(
+          'language' => 'es',
+          'source' => 'en',
+          'status' => '1',
+          'translate' => '0',
+        ),
       ),
     ),
     'uuid' => 'dec7d196-9c22-23e4-a5be-03883f32625a',
@@ -414,6 +462,12 @@ function humanitarianresponse_emergencies_data_uuid_default_entities() {
         0 => array(
           'format' => NULL,
           'value' => 'Epidémie',
+        ),
+      ),
+      'es' => array(
+        0 => array(
+          'format' => NULL,
+          'value' => 'Epidemia',
         ),
       ),
     ),
@@ -464,6 +518,12 @@ function humanitarianresponse_emergencies_data_uuid_default_entities() {
           'status' => '1',
           'translate' => '0',
         ),
+        'es' => array(
+          'language' => 'es',
+          'source' => 'en',
+          'status' => '1',
+          'translate' => '0',
+        ),
       ),
     ),
     'uuid' => 'acdabfd8-dd8c-c024-29e7-38a2985152ef',
@@ -506,6 +566,12 @@ function humanitarianresponse_emergencies_data_uuid_default_entities() {
         0 => array(
           'format' => NULL,
           'value' => 'Famine',
+        ),
+      ),
+      'es' => array(
+        0 => array(
+          'format' => NULL,
+          'value' => 'Hambre',
         ),
       ),
     ),
@@ -556,6 +622,12 @@ function humanitarianresponse_emergencies_data_uuid_default_entities() {
           'status' => '1',
           'translate' => '0',
         ),
+        'es' => array(
+          'language' => 'es',
+          'source' => 'en',
+          'status' => '1',
+          'translate' => '0',
+        ),
       ),
     ),
     'uuid' => 'c4ea845b-b704-9274-1d8c-cda71d6461b8',
@@ -598,6 +670,12 @@ function humanitarianresponse_emergencies_data_uuid_default_entities() {
         0 => array(
           'format' => NULL,
           'value' => 'Inondation',
+        ),
+      ),
+      'es' => array(
+        0 => array(
+          'format' => NULL,
+          'value' => 'Inundaciones',
         ),
       ),
     ),
@@ -648,6 +726,12 @@ function humanitarianresponse_emergencies_data_uuid_default_entities() {
           'status' => '1',
           'translate' => '0',
         ),
+        'es' => array(
+          'language' => 'es',
+          'source' => 'en',
+          'status' => '1',
+          'translate' => '0',
+        ),
       ),
     ),
     'uuid' => 'f4bf06ca-b2fa-49a4-b9bf-4dc3073a8f24',
@@ -690,6 +774,12 @@ function humanitarianresponse_emergencies_data_uuid_default_entities() {
         0 => array(
           'format' => NULL,
           'value' => 'Glissement de Terrain',
+        ),
+      ),
+      'es' => array(
+        0 => array(
+          'format' => NULL,
+          'value' => 'Deslizamiento',
         ),
       ),
     ),
@@ -740,6 +830,12 @@ function humanitarianresponse_emergencies_data_uuid_default_entities() {
           'status' => '1',
           'translate' => '0',
         ),
+        'es' => array(
+          'language' => 'es',
+          'source' => 'en',
+          'status' => '1',
+          'translate' => '0',
+        ),
       ),
     ),
     'uuid' => '80e5a70e-f335-54e4-0dbf-f89289266f62',
@@ -782,6 +878,12 @@ function humanitarianresponse_emergencies_data_uuid_default_entities() {
         0 => array(
           'format' => NULL,
           'value' => 'Tempête',
+        ),
+      ),
+      'es' => array(
+        0 => array(
+          'format' => NULL,
+          'value' => 'Tormenta',
         ),
       ),
     ),
@@ -832,6 +934,12 @@ function humanitarianresponse_emergencies_data_uuid_default_entities() {
           'status' => '1',
           'translate' => '0',
         ),
+        'es' => array(
+          'language' => 'es',
+          'source' => 'en',
+          'status' => '1',
+          'translate' => '0',
+        ),
       ),
     ),
     'uuid' => '2645d4d3-f762-7364-c941-1266f9096e7f',
@@ -871,6 +979,12 @@ function humanitarianresponse_emergencies_data_uuid_default_entities() {
         ),
       ),
       'fr' => array(
+        0 => array(
+          'format' => NULL,
+          'value' => 'Tsunami',
+        ),
+      ),
+      'es' => array(
         0 => array(
           'format' => NULL,
           'value' => 'Tsunami',
@@ -920,6 +1034,12 @@ function humanitarianresponse_emergencies_data_uuid_default_entities() {
         ),
         'fr' => array(
           'language' => 'fr',
+          'source' => 'en',
+          'status' => '1',
+          'translate' => '0',
+        ),
+        'es' => array(
+          'language' => 'es',
           'source' => 'en',
           'status' => '1',
           'translate' => '0',
